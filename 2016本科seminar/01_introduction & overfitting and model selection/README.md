@@ -4,4 +4,4 @@
 
  Machine Learning Specification   Regression--Coursera
 
- <<Learning From Data>> --林轩田著\
+ \<\<Learning From Data\>\> --林轩田著
