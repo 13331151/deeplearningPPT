@@ -1,0 +1,3 @@
+Supervised Learning.pdf 是俊潼负责讲的那部分
+Supervised Learning2.pdf 是荣聪负责讲的部分
+本次seminar有部分录像以及全程的语音，如果整理过后如果没问题会上传
